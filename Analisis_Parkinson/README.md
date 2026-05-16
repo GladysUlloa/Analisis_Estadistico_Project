@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Descripción
+## Descripción
 
 Este repositorio presenta un análisis completo sobre **pruebas de normalidad**, combinando fundamentos teóricos, pruebas formales y aplicaciones prácticas en un **dataset clínico real**.  
 El objetivo es demostrar cómo evaluar la normalidad de variables y residuos de modelos lineales, y cómo esta evaluación impacta la inferencia estadística.
