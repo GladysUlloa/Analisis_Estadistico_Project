@@ -22,7 +22,7 @@ El proyecto incluye:
 
 ---
 
-## 📌 Contexto de estudio
+## Contexto de estudio
 
 **Autora:** PhD(c). Gladys Choque Ulloa  
 **Dataset:** [University of California Irvine Parkinson's Telemonitoring Dataset](https://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring)  
@@ -44,7 +44,7 @@ Se recopilaron medidas acústicas de la voz para evaluar remotamente la progresi
 
 ---
 
-## 📊 Estructura del análisis
+## Estructura del análisis
 
 El análisis se realizó en seis etapas principales:
 
@@ -75,7 +75,7 @@ El análisis se realizó en seis etapas principales:
 
 ---
 
-## 🧰 Contenido del repositorio
+## Contenido del repositorio
 
 - `notebooks/`: Notebook con análisis paso a paso, visualizaciones y pruebas de normalidad.  
 - `scripts/`: Scripts Python listos para ejecutar los análisis.  
@@ -85,7 +85,7 @@ El análisis se realizó en seis etapas principales:
 
 ---
 
-## 🔹 Objetivo profesional
+## Objetivo profesional
 
 Este repositorio busca demostrar:
 
@@ -97,7 +97,7 @@ Es ideal como ejemplo avanzado para estudiantes de **Ciencia de Datos, Estadíst
 
 ---
 
-## 🔹 Licencia
+## Licencia
 
 Este proyecto se distribuye bajo **MIT License**.
 
