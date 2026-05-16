@@ -1,6 +1,6 @@
 ---
 
-# 📊 Análisis Estadístico
+# Análisis Estadístico
 
 Repositorio dedicado a la aplicación práctica de métodos estadísticos en Ciencia de Datos, con enfoque en análisis exploratorio, pruebas de hipótesis, modelado y casos aplicados con datos reales.
 
@@ -8,7 +8,7 @@ Este espacio reúne implementaciones en Python orientadas a comprender cómo la 
 
 ---
 
-## 🎯 Objetivos del Repositorio
+## Objetivos del Repositorio
 
 * Aplicar métodos estadísticos clásicos en contextos reales.
 * Documentar paso a paso análisis reproducibles.
@@ -17,7 +17,7 @@ Este espacio reúne implementaciones en Python orientadas a comprender cómo la 
 
 ---
 
-## 🧠 Contenidos Incluidos
+## Contenidos Incluidos
 
 * Análisis Exploratorio de Datos (EDA)
 * Pruebas de normalidad
@@ -31,28 +31,14 @@ Este espacio reúne implementaciones en Python orientadas a comprender cómo la 
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * Python
 * R
 
 ---
 
-## 📂 Estructura del Proyecto
-
-```
-Analisis-Estadistico/
-│
-├── data/
-├── notebooks/
-├── images/
-├── requirements.txt
-└── README.md
-```
-
----
-
-## 📌 Metodología General
+## Metodología General
 
 1. Comprensión del problema.
 2. Análisis exploratorio.
@@ -64,7 +50,7 @@ Analisis-Estadistico/
 
 ---
 
-## 📈 Enfoque
+## Enfoque
 
 Este repositorio no solo muestra código, sino que enfatiza:
 
@@ -75,7 +61,7 @@ Este repositorio no solo muestra código, sino que enfatiza:
 
 ---
 
-## 👩‍💻 Autoría
+## Autoría
 
 **Gladys Choque Ulloa**
 PhD(c). en Ciencia de Datos
