@@ -1,11 +1,11 @@
-# 📊 Análisis de la Matriz de Correlación — Dataset Iris
+# Análisis de la Matriz de Correlación — Dataset Iris
 
 **Autora:** Gladys Choque Ulloa  
 Ciencia de Datos · Estadística · Machine Learning · Investigación Cuantitativa  
 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto presenta un análisis exploratorio profundo de la **matriz de correlación** del dataset Iris, con el objetivo de estudiar la estructura de dependencia lineal entre variables cuantitativas y sus implicaciones en modelado estadístico y aprendizaje automático.
 
@@ -13,7 +13,7 @@ Más allá de calcular correlaciones, este trabajo interpreta la estructura de s
 
 ---
 
-## 📚 Contexto del Estudio
+## Contexto del Estudio
 
 El dataset **Iris** fue introducido por el estadístico y genetista Ronald Fisher en 1936 y es uno de los conjuntos de datos más utilizados en estadística y machine learning.
 
@@ -32,7 +32,7 @@ Cada observación incluye cuatro variables cuantitativas:
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Analizar la estructura de dependencia lineal entre las variables mediante:
 
@@ -43,7 +43,7 @@ Analizar la estructura de dependencia lineal entre las variables mediante:
 
 ---
 
-## 🧠 Preguntas de Investigación
+## Preguntas de Investigación
 
 1. ¿Existen relaciones lineales fuertes entre variables?
 2. ¿Hay evidencia de redundancia informativa?
@@ -52,7 +52,7 @@ Analizar la estructura de dependencia lineal entre las variables mediante:
 
 ---
 
-## 🛠️ Metodología
+## Metodología
 
 El análisis se desarrolló en Python utilizando:
 
@@ -74,9 +74,9 @@ Etapas del análisis:
 
 ---
 
-## 📊 Resultados Principales
+## Resultados Principales
 
-### 🔵 Alta correlación positiva
+### Alta correlación positiva
 
 Petal length y petal width presentan una correlación cercana a 0.96.
 
@@ -88,7 +88,7 @@ Esto indica:
 
 ---
 
-### 🔴 Correlaciones negativas moderadas
+### Correlaciones negativas moderadas
 
 Sepal width muestra correlaciones negativas con variables del pétalo.
 
@@ -96,13 +96,13 @@ Esto sugiere una relación inversa parcial en la morfología floral.
 
 ---
 
-### ⚪ Correlaciones débiles
+### Correlaciones débiles
 
 Sepal length y sepal width presentan baja dependencia lineal.
 
 ---
 
-## 📈 Evaluación de Multicolinealidad
+## Evaluación de Multicolinealidad
 
 Se calculó el Variance Inflation Factor (VIF) para cada variable.
 
@@ -110,7 +110,7 @@ Valores elevados confirman la presencia de redundancia estructural entre variabl
 
 ---
 
-## 🔬 Interpretación Estadística
+## Interpretación Estadística
 
 La matriz de correlación estimada es una aproximación empírica de la matriz poblacional:
 
@@ -128,7 +128,7 @@ Este análisis no es meramente descriptivo, sino estructural.
 
 ---
 
-## 🤖 Implicaciones para Machine Learning
+## Implicaciones para Machine Learning
 
 - En regresión lineal: posible inestabilidad de coeficientes.
 - En PCA: variables correlacionadas dominarán los primeros componentes.
@@ -137,7 +137,7 @@ Este análisis no es meramente descriptivo, sino estructural.
 
 ---
 
-## 📌 Conclusión
+## Conclusión
 
 La matriz de correlación permite comprender la estructura interna de un sistema multivariado antes de modelar.
 
@@ -151,13 +151,13 @@ Este tipo de análisis es fundamental en cualquier pipeline serio de Ciencia de 
 
 ---
 
-## 📜 Licencia
+## Licencia
 
 Este proyecto puede utilizarse con fines educativos y académicos, citando la fuente correspondiente.
 
 ---
 
-## 👩‍🔬 Sobre la Autora
+## Contactos
 
 Gladys Choque Ulloa  
 PhD(c) in Computer Science 
