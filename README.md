@@ -34,7 +34,6 @@ Este espacio reúne implementaciones en Python orientadas a comprender cómo la 
 ## Tecnologías Utilizadas
 
 * Python
-* R
 
 ---
 
