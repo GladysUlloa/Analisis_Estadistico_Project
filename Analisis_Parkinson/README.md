@@ -22,9 +22,7 @@ El proyecto incluye:
 
 ---
 
-## Contexto de estudio
-
-**Autora:** PhD(c). Gladys Choque Ulloa  
+## Contexto de estudio 
 **Dataset:** [University of California Irvine Parkinson's Telemonitoring Dataset](https://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring)  
 
 ### Contexto clínico
