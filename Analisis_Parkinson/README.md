@@ -1,6 +1,8 @@
 # Pruebas de Normalidad en Ciencia de Datos
 
-**Autora:** PhD(c). Gladys Choque Ulloa 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-green?logo=scikitlearn) ![Estado](https://img.shields.io/badge/Estado-En%20progreso-orange)
+
+**Autora:** PhD(c). Gladys Choque Ulloa in Computer Science
 
 **Tema:** Estadística aplicada · Ciencia de Datos · Machine Learning · Inferencia estadística
 
